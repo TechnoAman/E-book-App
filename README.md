@@ -2,7 +2,7 @@
 
 A new Flutter project.
 This is Homescreen
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/34105590/92441278-8d547900-f1cb-11ea-8785-4c1281cb2418.png" width="240" title="Homepage">
   
 </p>
