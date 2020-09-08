@@ -2,7 +2,7 @@
 
 A new Flutter project.
 This is Homescreen
-![Homescreen](https://user-images.githubusercontent.com/34105590/92440303-ea4f2f80-f1c9-11ea-95b2-e0f600fc1470.png)
+![Alt Text](https://user-images.githubusercontent.com/16924139/34470786-79fb0dfe-ef5f-11e7-8650-f603c9ddbdb7.gif)
 
 ## Getting Started
 
