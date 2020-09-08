@@ -10,7 +10,12 @@
  
   
   
+  
 </p>
+
+
+
+Took design from https://dribbble.com/shots/13745585-Ebook-Reader-Mobile-App
 
 
 
